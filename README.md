@@ -1,2 +1,2 @@
 # Artwork
-Design _ Nerd stuff _ Fun with Code
+Design _ Artwork _ All that is usefull and catchy
