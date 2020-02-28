@@ -1,0 +1,25 @@
+<!--
+animated-white-v_down-50.svg
+Created by theStudio60
+    (GFx Lab Division)
+Copyright 2018 - theStudio60
+https://github.com/theStudio60/vectorgraphics
+-->
+<svg width="46px" height="53px" viewBox="0 0 46 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="arrowdown" stroke="#FFFFFF" stroke-width="2" points="1 1 22.5683594 11.4599609 44.7045898 1">
+            <animate
+            attributeName="points" 
+            begin="0s" 
+            dur="0.6s" 
+            values ="
+            1 10 22.5683594 21.4599609 44.7045898 10;
+            1 20 22.5683594 31.4599609 44.7045898 20;
+            1 10 22.5683594 21.4599609 44.7045898 10;
+            "
+            repeatCount="indefinite"  
+            /> 
+        </polyline>
+    </g>
+</svg>
+<!--EOF-->

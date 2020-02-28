@@ -1,0 +1,21 @@
+<!--
+animated-yellow-lambda-200.svg
+Created by theStudio60
+    (GFx Lab Division)
+Copyright 2018 - theStudio60
+https://github.com/theStudio60/vectorgraphics
+-->
+<svg width="250px" height="200px" xmlns="http://www.w3.org/2000/svg"> 
+    <g id="Group" stroke="#D7FF00" stroke-width="0">
+        <polygon id="ARROW" fill="#282c30" transform="translate(115.539074, 108.525934) scale(1, -1) rotate(-300.000000) translate(-115.539074, -108.525934) " points="134.93267 75.4556915 157.486718 75.2430565 152.393543 61.4484737 121.783042 -12.4740659 109.792396 -12.4740659 143.486322 65.8099349 45.2969635 66.4577944 52.6890976 53.6854004 120.914802 53.8415563 94.3097375 -12.4740659 121.783042 -12.4740659 170.27315 -12.4740659 231.039074 108.525934 170.27315 229.525934 94.0508302 229.525934 134.93267 141.596177 0.0390738579 144.655997 39.6374555 76.236495">
+            <animate 
+            attributeName="fill" 
+            begin="1s" 
+            dur="30s" 
+            values =" #282c30; #5A6168; #D6D7D5;  #FFFFFF ; yellow; #D6D7D5; orange; #D6D7D5; white;  #5A6168;#282c30; "
+            repeatCount="indefinite"  
+            /> 
+        </polygon>
+    </g>
+</svg>
+<!--EOF-->
